@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://assets.belloai.com/staging/config/menu_logo.png',
       name: '内部测试请勿外发',
-      description: '<a href="https://newzone.top/chatgpt/" class="text-blue-500" target="_blank" >使用参考</a>',
+      description: '<a href="https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh" class="text-blue-500" target="_blank" >使用参考</a>',
     },
   }
 }
